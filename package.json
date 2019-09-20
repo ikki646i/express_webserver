@@ -1,0 +1,26 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Demo of Node.js web server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikki646i/express_webserver.git"
+  },
+  "keywords": [
+    "demo",
+    "webserver"
+  ],
+  "author": "ikki646i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikki646i/express_webserver/issues"
+  },
+  "homepage": "https://github.com/ikki646i/express_webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
