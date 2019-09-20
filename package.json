@@ -20,7 +20,5 @@
     "url": "https://github.com/ikki646i/express_webserver/issues"
   },
   "homepage": "https://github.com/ikki646i/express_webserver#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "dependencies": {}
 }
